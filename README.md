@@ -4,7 +4,7 @@ The code I wrote while preparing for my AP (Algorithms and Programming in Python
 
 I implemented every functionality. The code also handles every possible error.
 
-The code was written and tested in 37 minutes.
+The code was written and tested in 37 minutes (the exam is 70 minutes).
 
 Main concepts that this exam tests:
  - Object-Oriented Programming
