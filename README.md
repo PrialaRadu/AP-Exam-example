@@ -1,5 +1,3 @@
-# AP-Exam-example
-
 ## A console-based Python program managing a cafe's coffee inventory. It supports operations such as displaying coffee details, filtering by country, and adding new coffees. It ensures data integrity, handles errors, and dynamically updates a leaderboard based on the most prevalent coffee-producing country. ##
 
 The code I wrote while preparing for my AP (Algorithms and Programming in Python) exam. This is an exam subject from the previous year.
